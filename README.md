@@ -2,7 +2,7 @@
 
 Bu proje, bir Windows Form uygulamasıdır ve kullanıldığı bilgisayarın temel sistem bilgilerini (Kullanıcı Adı, İşletim Sistemi, İşlemci Türü, Depolama Alanı ve Office Sürümü) otomatik olarak toplayıp bir arayüzde görüntüler.
 
-Proje ekran görüntüsü:
+
 ![Sistem Bilgi Toplama Uygulaması Arayüzü](SistemBilgiToplamaGorsel.png)
 
 ## 🇹🇷 Türkçe Açıklama
