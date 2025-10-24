@@ -70,12 +70,5 @@ This application, developed as a Windows Forms application, is designed to autom
 
 ***
 
-### 🤝 Katkıda Bulunma / Contributing
-Hata bulursanız, yeni bir özellik önermek isterseniz veya projeyi geliştirmeye katkıda bulunmak isterseniz, lütfen bir "Issue" açmaktan veya bir "Pull Request" göndermekten çekinmeyin.
-
-If you find a bug, want to suggest a new feature, or wish to contribute to the project's development, please feel free to open an "Issue" or submit a "Pull Request."
-
-***
-
 ### 👤 Geliştirici / Developer
 [Fhewn](https://github.com/Fhewn)
